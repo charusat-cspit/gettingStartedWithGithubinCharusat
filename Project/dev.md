@@ -1,4 +1,2 @@
-Hey, I am dev
+Hey, I am Dev , Studying CE at CSPIT, CHARUSAT
 
-#BREIF
-I change
